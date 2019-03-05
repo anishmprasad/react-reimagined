@@ -1,0 +1,22 @@
+{
+  "name": "react-reimagined",
+  "version": "1.0.0",
+  "description": "react redefined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishmprasad/react-reimagined.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "anish.m.prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishmprasad/react-reimagined/issues"
+  },
+  "homepage": "https://github.com/anishmprasad/react-reimagined#readme"
+}
